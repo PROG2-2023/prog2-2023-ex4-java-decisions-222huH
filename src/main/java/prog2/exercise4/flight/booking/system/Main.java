@@ -74,7 +74,7 @@ public class Main
         
         System.out.println("Dear passenger please input Your FullName:");
         String passengerFullName = reader.nextLine();
-        System.out.println("Dear passenger please input the number of childpassengers:");
+        System.out.println("Dear. passenger please input the number of childpassengers:");
         int childpassengers = reader.nextInt();
         System.out.println(reader.nextInt());
         reader.close();
